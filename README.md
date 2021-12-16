@@ -7,9 +7,9 @@
 
 ## 💁🏾  À propos de moi
 
-- 💼 Actuellement, je travaille sur mon plus beau projet: **[MyWedding](https://my-wedding-app.netlify.app/)**
+- 💼 Actuellement, je suis en 3ème année **Conceptrice Développeuse d'Applications (logicielles et web)**
 
-- 📖 En parallèle, je revois les bases des **structures de données**, des **algorithmes** et j'apprends la méthodologie des **tests unitaires**
+- 📖 En parallèle, je travaille sur mon plus beau projet: **[MyWedding](https://my-wedding-app.netlify.app/)**
 
 - 🤩 Je travaille essentiellement sur la stack **MERN**
 
