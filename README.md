@@ -7,9 +7,9 @@
 
 ## 💁🏾  À propos de moi
 
-- 💼 Actuellement, je suis en 3ème année **Conceptrice Développeuse d'Applications (logicielles et web)**
+- 📖 Actuellement, je suis en 3ème année **Conceptrice Développeuse d'Applications (logicielles et web)**
 
-- 📖 En parallèle, je suis en alternance chez **Huggle**
+- 💼 En parallèle, je suis en alternance chez **Huggle**
 
 - 🤩 Je travaille essentiellement sur la stack **MERN**
 
