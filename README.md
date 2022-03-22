@@ -9,7 +9,7 @@
 
 - 💼 Actuellement, je suis en 3ème année **Conceptrice Développeuse d'Applications (logicielles et web)**
 
-- 📖 En parallèle, je travaille sur mon plus beau projet: **[MyWedding](https://my-wedding-app.netlify.app/)**
+- 📖 En parallèle, je suis en alternance chez **Huggle**
 
 - 🤩 Je travaille essentiellement sur la stack **MERN**
 
