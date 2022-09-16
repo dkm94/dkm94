@@ -1,15 +1,15 @@
 <p align="center"><img width="auto" height="300px" src="https://media.baamboozle.com/uploads/images/364739/1627725585_53698_gif-url.gif"/></p>
 
 <h1 align="center">Bienvenue 👋🏾, moi c'est Diane</h1>
-<h3 align="center">Je suis développeuse web pro-Javascript ✊🏾</h3>
+<h3 align="center">Je suis développeuse web Javascript ✊🏾</h3>
 
 <br />
 
 ## 💁🏾  À propos de moi
 
-- 📖 Actuellement, je suis en 3ème année **Conceptrice Développeuse d'Applications (logicielles et web)**
+- 📖 Je suis titulaire d'un titre en **Conception et Développement d'Applications Web** BAC+3/4
 
-- 💼 En parallèle, je suis en alternance chez **Huggle**
+- 💼 Je sors d'une année d'apprentissage en startup et suis actuellement ouverte aux opportunités en développement frontend
 
 - 🤩 Je travaille essentiellement sur la stack **MERN**
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-## Restons en contact:
+## Restons en contact 🖐🏾:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/diane-mpk/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -74,5 +74,3 @@
 <br />
 <br />
 <br />
-
-## Merci d'être passé.e 🖐🏾, à bientôt qui sait... 🤸🏽‍♀️
