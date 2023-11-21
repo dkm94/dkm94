@@ -18,6 +18,12 @@
 - 🔨 Je suis impatiente de mettre mes compétences au service d'une entreprise dynamique !
 
 - 🤓 TMI: **Je suis une obstinée** !
+
+- 🔧 Work in progress: Je travaille actuellement sur le site web d'une illstratrice
+
+ ![homepage-gif](https://github.com/dkm94/dkm94/assets/50888705/a9c77b37-fb1e-4373-bda8-9db56d9cc013)
+
+
   
 <br />
 <br />
