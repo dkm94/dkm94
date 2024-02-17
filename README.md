@@ -9,17 +9,15 @@
 
 - 📖 Je suis titulaire d'un titre en **Conception et Développement d'Applications Web** BAC+3/4
 
-- 💼 Je sors d'une année d'apprentissage en startup et suis actuellement ouverte aux opportunités en développement frontend
+- 💼 Je suis Développeuse web chez MANAG - React | Typescript | Next JS | Node
 
 - 🤩 Je travaille essentiellement sur la stack **MERN**
 
 - 💪🏾 Vous pouvez découvrir quelques uns de mes projets sur **[Mon Portfolio](https://www.diane-mpk.com)**
 
-- 🔨 Je suis impatiente de mettre mes compétences au service d'une entreprise dynamique !
-
 - 🤓 TMI: **Je suis une obstinée** !
 
-- 🔧 Work in progress: Je travaille actuellement sur le site web d'une illstratrice
+- 🔧 Work in progress: Je travaille actuellement sur le site web d'une illustratrice
 
  ![homepage-gif](https://github.com/dkm94/dkm94/assets/50888705/a9c77b37-fb1e-4373-bda8-9db56d9cc013)
 
